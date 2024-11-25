@@ -1,7 +1,7 @@
 
-# MouseClickTool
+# 🏎Racing Mouse🐀
 
-MouseClickTool is a simple desktop application that automates mouse clicking. It's perfect for tasks that require repetitive clicking, such as gaming or testing. The tool is built with PyQt5 for the user interface and uses `pyautogui` for mouse control.
+Racing Mouse is a simple desktop application that automates mouse clicking. It's perfect for tasks that require repetitive clicking, such as gaming or testing. The tool is built with PyQt5 for the user interface and uses `pyautogui` for mouse control.
 
 ## Features
 
@@ -14,8 +14,8 @@ MouseClickTool is a simple desktop application that automates mouse clicking. It
 
 1. Clone the repository or download the source code.
    ```bash
-   git clone https://github.com/yourusername/mouseclicktool.git
-   cd mouseclicktool
+   git clone https://github.com/teliq846/racing-mouse.git
+   cd racing-mouse
    ```
 
 2. Install the required dependencies:
@@ -25,7 +25,7 @@ MouseClickTool is a simple desktop application that automates mouse clicking. It
 
 3. Run the application:
    ```bash
-   python mouse_click_tool.py
+   python main.py
    ```
 
 ## Usage
